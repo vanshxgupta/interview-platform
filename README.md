@@ -53,7 +53,7 @@ SmartHireAI is a full-stack, AI-driven platform that mimics real interviews usin
 
 ## 🖼️ Demo Preview
 
-> ⚠️ Replace the images below with actual demo screenshots or a link to a Loom video
+> https://www.youtube.com/watch?v=ZbonmEFXMhg&t=13s
 
 <p align="center">
   <img src="https://via.placeholder.com/600x350.png?text=Home+Page+Mock" width="48%" />
